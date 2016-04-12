@@ -46,6 +46,7 @@ module Onebox
           ebay.co.uk
           ebay.com
           ehow.com
+          epicbuzz.net
           espn.go.com
           etsy.com
           findery.com
